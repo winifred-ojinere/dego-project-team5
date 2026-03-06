@@ -178,8 +178,8 @@ dego-project-team5/
 
 | Name | Role | Contributions |
 |---|---|---|
-| [Your name] | Product Lead | README, video coordination, presentation structure, repository management |
-| [Name] | Data Engineer | Data loading, JSON flattening, cleaning pipeline, duplicate resolution, `01-data-quality.ipynb` |
-| [Name] | Data Scientist | Bias metrics, fairness analysis, statistical testing, proxy analysis, `02-bias-analysis.ipynb` |
+| Oliver Mourant | Product Lead | README, video coordination, presentation structure, repository management |
+| Nicolas Oteri | Data Engineer | Data loading, JSON flattening, cleaning pipeline, duplicate resolution, `01-data-quality.ipynb` |
+| Margarida Gonçalves Alves Rodrigues | Data Scientist | Bias metrics, fairness analysis, statistical testing, proxy analysis, `02-bias-analysis.ipynb` |
 | Winifred Ojinere | Governance Officer | Privacy & GDPR analysis, EU AI Act classification, pseudonymization demo, governance recommendations, `03-privacy-demo.ipynb` |
 
