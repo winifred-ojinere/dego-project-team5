@@ -16,6 +16,9 @@ Immediate remediation is required before NovaCred can claim regulatory complianc
 
 ---
 
+## Video Presentation
+[Watch our presentation here] https://youtu.be/56Za14az6YI
+
 ## Data Quality Findings
 
 The raw dataset contained **504 records** across a nested JSON structure. After cleaning, **502 unique records** were retained.
