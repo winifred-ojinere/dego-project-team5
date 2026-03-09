@@ -17,7 +17,7 @@ Immediate remediation is required before NovaCred can claim regulatory complianc
 ---
 
 ## Video Presentation
-[Watch our presentation here] https://youtu.be/56Za14az6YI
+[Watch our presentation here] [https://youtu.be/56Za14az6YI](https://youtu.be/PFMiqnBoBdk)
 
 ## Data Quality Findings
 
